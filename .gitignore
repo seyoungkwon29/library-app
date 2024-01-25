@@ -1,0 +1,4 @@
+# .gitignore 기능 : 여기에 적힌 폴더나 파일들을 추적하거나 관리하지 않게 한다.
+build/
+.gradle/
+.idea/
